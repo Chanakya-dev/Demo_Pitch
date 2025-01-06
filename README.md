@@ -62,20 +62,20 @@ Hello, I’m **Manas**, your mentor. I will be here throughout your journey to c
 - **Purpose**: 
   - Learn to structure and style webpages.
   - Build a **personal portfolio** showcasing your skills.
-- **Outcome**: Create visually appealing and responsive designs.
+- **Outcome**: Create Personal Portfolio.
 
 ### **3. Python Basics**
 - **Purpose**: 
   - Learn Python fundamentals and focus on building logical skills.
   - Practice solving problems like **ATM simulation**.
   - Work on **HackerRank problems** to enhance logic-building.
-- **Outcome**: Strong foundation in Python and problem-solving skills.
+- **Outcome**: Develop an ATM Backend Logic.
 
 ### **4. Python Advanced**
 - **Purpose**: 
   - Dive into advanced Python concepts and practical applications.
   - Build projects like **Inventory Management**.
-- **Outcome**: Develop efficient and scalable backend logic.
+- **Outcome**: Develop Inventory Management backend logic.
 
 ### **5. JavaScript**
 - **Purpose**: 
@@ -121,8 +121,3 @@ Hello, I’m **Manas**, your mentor. I will be here throughout your journey to c
 - A dedicated space for coding, experimenting, and debugging your projects.
 ---
 
-By the end of this course, you'll be equipped with the knowledge and experience to build real-world web applications, creating opportunities for internships, job placements, and entrepreneurship.
-
----
-
-**Ready to embark on your Full Stack Development journey with AcademiXedu? Let’s get started!**
