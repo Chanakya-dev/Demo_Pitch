@@ -114,12 +114,11 @@ Hello, I’m **Manas**, your mentor. I will be here throughout your journey to c
 ### **Other Student Projects**
 - Showcase previous students' projects to inspire and set benchmarks.
 
-### **Playground**
-- A dedicated space for coding, experimenting, and debugging your projects.
-
 ### **Interactive Sessions**
 - Live discussions, collaborative coding sessions, and personalized feedback.
 
+### **Playground**
+- A dedicated space for coding, experimenting, and debugging your projects.
 ---
 
 By the end of this course, you'll be equipped with the knowledge and experience to build real-world web applications, creating opportunities for internships, job placements, and entrepreneurship.
