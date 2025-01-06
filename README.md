@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-### **Professor Intro**
+### **Tutor Intro**
 We are privileged to have **Shashank Sir** as our lead instructor. With **20 years of experience** in leading companies like **Wipro** and **Cisco**, he brings a wealth of knowledge and industry expertise to this course.
 
 ### **Mentor Intro**
