@@ -87,6 +87,7 @@ Hello, I’m **Manas**, your mentor. I will be here throughout your journey to c
 - **Purpose**: 
   - Cover fundamental React concepts through structured, day-by-day practice.
   - Build a **To-Do List Project**.
+  - Day by Day Interactive Sessions
 - **Outcome**: Learn to build dynamic frontend applications using React.
 
 ### **7. React Intermediate**
