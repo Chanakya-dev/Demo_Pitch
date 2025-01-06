@@ -104,7 +104,7 @@ Hello, I’m **Manas**, your mentor. I will be here throughout your journey to c
 
 ### **9. Full Stack Application**
 - **Purpose**: 
-  - Apply all your learning to build a complete **Full Stack Web Application**.
+  - Apply all your learning to build a complete **Full Stack Web Application**  and Integaration towards an AI.
 - **Outcome**: Master the integration of frontend, backend, and database for a real-world project.
 
 ---
